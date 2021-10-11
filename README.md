@@ -3,7 +3,7 @@
 Distributed audio recorder that use Gun
 
 ## Features
-- audio capture from microphone into buffer
+- audio capture buffer
 
 ## ScreenShoot
 
